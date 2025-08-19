@@ -12,9 +12,6 @@ Por ahora, este repositorio incluye la versión para **Windows** en formato comp
 - Conversión automática a MP3
 - Interfaz gráfica moderna y fácil de usar
 - Soporte multilenguaje (ES, EN, PT-BR, FR, DE)
-- Descarga de subtítulos
-- Historial de descargas y modo batch
-- Validación de licencia con Firebase
 
 ---
 
@@ -42,3 +39,4 @@ Este proyecto está licenciado bajo una **Licencia MIT Modificada – Uso Educat
   provenientes de plataformas de pago o con licencia restringida.  
 
 El usuario final es el único responsable del uso que haga de este software.
+
